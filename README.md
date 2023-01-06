@@ -5,7 +5,7 @@
 
 O Fruta e Fruto é uma aplicação Front-end construída durante o curso de HTML E CSS da Alura.
 
-A aplicação consiste em um layout de um gerenciador de cursos online, sendo responsivo para desktop e mobile.
+A aplicação consiste em um layout de uma pagina web de receitas veganas gerenciador de cursos online, sendo responsivo para desktop e mobile.
 
 ### Front-end
 
